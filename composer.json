@@ -1,0 +1,9 @@
+{
+  "name": "helicon-os/yii2-hcy-doctrine-devtools",
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "require-dev": {
+    "helicon-os/yii2-hcy-doctrine": "dev-master"
+  }
+}

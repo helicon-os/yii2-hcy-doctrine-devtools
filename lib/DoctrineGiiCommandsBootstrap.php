@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace helicon\hcyii2\doctrine\tools\gii\generators\reverse;
+namespace helicon\hcy\doctrine\devtools\gii;
 
 
 /**

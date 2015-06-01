@@ -6,14 +6,14 @@
  * and open the template in the editor.
  */
 
-namespace helicon\hcyii2\doctrine\tools\gii\generators\convert;
+namespace helicon\hcy\doctrine\devtools\gii\generators\convert;
 
 /**
  * Description of newPHPClass
  *
  * @author Andreas Prucha, Helicon Software Development
  */
-class Generator extends \helicon\hcyii2\doctrine\tools\gii\common\Generator
+class Generator extends \helicon\hcy\doctrine\devtools\gii\common\Generator
 {
     
     public $ns = '';
