@@ -5,5 +5,10 @@
   },
   "require-dev": {
     "helicon-os/yii2-hcy-doctrine": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "helicon\\hcy\\doctrine\\devtools\\": "lib"
+    }
   }
 }
